@@ -3,5 +3,7 @@
 # Ağ projeleri
 - Celestia
 - Sei Network
-- Paloma
+- Sui
 - Kyve
+- Massa
+- Meson
