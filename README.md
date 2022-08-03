@@ -7,3 +7,5 @@
 - Kyve
 - Massa
 - Meson
+- Bundlr
+- StafiHub
